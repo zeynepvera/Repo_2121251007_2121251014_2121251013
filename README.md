@@ -1,2 +1,2 @@
-# Repo_A_B_C.
+# Repo_2121251007_2121251014_2121251013  Zeynep Dağtekin_Beyza Sevigen_Merve_Demir
 Project Managment group workshop
