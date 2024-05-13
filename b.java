@@ -1,1 +1,1 @@
-f<dgsfhgdfhj
+class B{}
