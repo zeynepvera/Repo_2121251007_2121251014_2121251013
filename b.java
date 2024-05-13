@@ -1,1 +1,1 @@
-gfedgv
+class B{}
